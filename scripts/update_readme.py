@@ -1,4 +1,4 @@
-"""programmers/, baekjoon/ 폴더의 풀이 파일을 스캔해서
+"""programmers/ 폴더의 풀이 파일을 스캔해서
 README.md의 풀이 기록 표를 자동으로 다시 생성하는 스크립트.
 
 각 풀이 파일(.py) 맨 위에는 아래 형식의 메타데이터 주석이 있어야 합니다:
@@ -15,7 +15,6 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 SOURCES = {
     "programmers": "프로그래머스",
-    "baekjoon": "백준",
 }
 START_MARK = "<!-- SOLUTIONS_TABLE_START -->"
 END_MARK = "<!-- SOLUTIONS_TABLE_END -->"
