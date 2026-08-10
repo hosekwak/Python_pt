@@ -1,16 +1,25 @@
+<p align="center">
+  <img src="https://www.python.org/static/img/python-logo.png" alt="Python logo" width="220">
+</p>
+
 # Python 코딩테스트 연습
 
-파이썬으로 코딩테스트(프로그래머스 등) 문제를 풀며 기록하는 저장소입니다.
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Update README](https://github.com/hosekwak/Python_pt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/hosekwak/Python_pt/actions/workflows/update-readme.yml)
+
+파이썬으로 프로그래머스 코딩테스트 문제를 풀며 기록하는 저장소입니다.
+
+---
 
 ## 폴더 구조
 
 ```
 Python_pt/
-├── programmers/     # 프로그래머스 문제 풀이
+├── programmers/          # 프로그래머스 문제 풀이
+├── scripts/
+│   └── update_readme.py  # README 풀이 기록 표 자동 생성 스크립트
 └── README.md
 ```
-
-문제 풀이 파일명은 `문제번호_문제이름.py` 형식을 기본으로 합니다. (예: `12345_두수의합.py`)
 
 ## 새 문제 등록 방법
 
@@ -26,15 +35,18 @@ def solution(a, b):
     return a + b
 ```
 
-이 파일을 커밋하고 `main` 브랜치로 push하면 GitHub Actions가 자동으로 아래 **풀이 기록** 표를 갱신하고 다시 커밋해줍니다. 표는 직접 수정할 필요가 없습니다.
+이 파일을 커밋하고 `main` 브랜치로 push하면 **GitHub Actions가 자동으로** 아래 풀이 기록 표를 갱신하고 다시 커밋해줍니다. 표는 직접 수정할 필요가 없습니다.
 
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-| 번호 | 문제 | 출처 | 난이도 | 풀이 |
-|---|---|---|---|---|
-|  | 부분 문자열 정수 변환 | 프로그래머스 | Lv.1 | [코드](programmers/부분문자열정수변환.py) |
-|  | 알파벳 대소문자별 개수 세기 | 프로그래머스 | Lv.0 | [코드](programmers/알파벳개수세기.py) |
+**총 3문제 풀이**
+
+| 번호 | 문제 | 난이도 | 풀이 |
+|:---:|---|:---:|:---:|
+| 3 | 배열 만들기 1 | Lv.0 | [코드](programmers/배열_만들기_1.py) |
+|  | 부분 문자열 정수 변환 | Lv.1 | [코드](programmers/부분문자열정수변환.py) |
+|  | 알파벳 대소문자별 개수 세기 | Lv.0 | [코드](programmers/알파벳개수세기.py) |
 <!-- SOLUTIONS_TABLE_END -->
 
 ## 규칙
@@ -46,4 +58,4 @@ def solution(a, b):
 ## 진행 현황
 
 - 시작일: 2026-08-10
-- 목표: (예: 매일 1문제 이상 풀기)
+- 목표: 매일 1문제 이상 풀기
