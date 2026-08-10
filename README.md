@@ -40,12 +40,10 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 5문제 풀이**
+**총 3문제 풀이**
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
-|  | 부분 문자열 정수 변환 | Lv.1 | [코드](programmers/부분문자열정수변환.py) |
-|  | 알파벳 대소문자별 개수 세기 | Lv.0 | [코드](programmers/알파벳개수세기.py) |
-| 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | Lv.0 | [코드](programmers/카운트 다운.py) |
+| 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | Lv.0 | [코드](programmers/카운트다운.py) |
 | 181900 | [글자지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | Lv.0 | [코드](programmers/글자지우기.py) |
 | 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
 <!-- SOLUTIONS_TABLE_END -->
