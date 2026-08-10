@@ -35,6 +35,7 @@ def solution(a, b):
 |---|---|---|---|---|
 |  | 부분 문자열 정수 변환 | 프로그래머스 | Lv.1 | [코드](programmers/부분문자열정수변환.py) |
 |  | 알파벳 대소문자별 개수 세기 | 프로그래머스 | Lv.0 | [코드](programmers/알파벳개수세기.py) |
+| 3 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | 프로그래머스 | Lv.0 | [코드](programmers/배열_만들기_1.py) |
 <!-- SOLUTIONS_TABLE_END -->
 
 ## 규칙
