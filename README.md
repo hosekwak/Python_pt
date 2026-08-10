@@ -43,10 +43,10 @@ def solution(a, b):
 **총 4문제 풀이**
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
-|  | 글자지우기 |  | [코드](programmers/글자지우기.py) |
 |  | 부분 문자열 정수 변환 | Lv.1 | [코드](programmers/부분문자열정수변환.py) |
 |  | 알파벳 대소문자별 개수 세기 | Lv.0 | [코드](programmers/알파벳개수세기.py) |
 | 3 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
+| 181900 | [글자지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | Lv.0 | [코드](programmers/글자지우기.py) |
 <!-- SOLUTIONS_TABLE_END -->
 
 ## 규칙
