@@ -40,9 +40,10 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 5문제 풀이**
+**총 6문제 풀이**
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
+| 181896 | [첫번째로_나오는_음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | Lv.0 | [코드](programmers/첫번째로_나오는_음수.py) |
 | 181897 | [리스트자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | Lv.0 | [코드](programmers/리스트_자르기.py) |
 | 181898 | [가까운_1_찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | Lv.0 | [코드](programmers/가까운_1_찾기.py) |
 | 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | Lv.0 | [코드](programmers/카운트다운.py) |
