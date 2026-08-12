@@ -40,9 +40,14 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 9문제 풀이**
+**총 14문제 풀이**
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
+| 181888 | [n 개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | Lv.0 | [코드](programmers/n_개_간격의_원소들.py) |
+| 181889 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | Lv.0 | [코드](programmers/n_번째원소까지.py) |
+| 181890 | [왼쪽오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | Lv.0 | [코드](programmers/왼쪽_오른쪽.py) |
+| 181891 | [순서바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | Lv.0 | [코드](programmers/순서_바꾸기.py) |
+| 181892 | [n번째원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | Lv.0 | [코드](programmers/n번째_원소부터.py) |
 | 181893 | [배열조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893) | Lv.0 | [코드](programmers/배열_조각하기.py) |
 | 181894 | [2의영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | Lv.0 | [코드](programmers/2의_영역.py) |
 | 181895 | [배열만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | Lv.0 | [코드](programmers/배열_만들기_3.py) |
