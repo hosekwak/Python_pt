@@ -41,6 +41,20 @@ def solution(a, b):
 
 <!-- SOLUTIONS_TABLE_START -->
 **총 19문제 풀이**
+
+### 최근 풀이
+
+| 번호 | 문제 | 난이도 | 풀이 |
+|:---:|---|:---:|:---:|
+| 181897 | [리스트자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | Lv.0 | [코드](programmers/리스트_자르기.py) |
+| 181898 | [가까운_1_찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | Lv.0 | [코드](programmers/가까운_1_찾기.py) |
+| 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | Lv.0 | [코드](programmers/카운트다운.py) |
+| 181900 | [글자지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | Lv.0 | [코드](programmers/글자지우기.py) |
+| 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
+
+<details>
+<summary>전체 풀이 기록 보기 (19개)</summary>
+
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
 | 181883 | [수열과 구간쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | Lv.0 | [코드](programmers/수열과_구간쿼리_1.py) |
@@ -62,6 +76,8 @@ def solution(a, b):
 | 181899 | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | Lv.0 | [코드](programmers/카운트다운.py) |
 | 181900 | [글자지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | Lv.0 | [코드](programmers/글자지우기.py) |
 | 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
+
+</details>
 <!-- SOLUTIONS_TABLE_END -->
 
 ## 규칙

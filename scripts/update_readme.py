@@ -59,16 +59,37 @@ def collect_rows() -> list[dict]:
     return rows
 
 
-def build_table(rows: list[dict]) -> str:
-    if not rows:
-        return "아직 등록된 풀이가 없습니다."
-    summary = f"**총 {len(rows)}문제 풀이**\n"
-    header = "| 번호 | 문제 | 난이도 | 풀이 |\n|:---:|---|:---:|:---:|"
+RECENT_COUNT = 5
+
+HEADER = "| 번호 | 문제 | 난이도 | 풀이 |\n|:---:|---|:---:|:---:|"
+
+
+def render_rows(rows: list[dict]) -> str:
     lines = [
         f"| {r['번호']} | {r['문제']} | {r['난이도']} | {r['풀이']} |"
         for r in rows
     ]
-    return summary + "\n".join([header, *lines])
+    return "\n".join([HEADER, *lines])
+
+
+def build_table(rows: list[dict]) -> str:
+    if not rows:
+        return "아직 등록된 풀이가 없습니다."
+
+    summary = f"**총 {len(rows)}문제 풀이**\n"
+
+    if len(rows) <= RECENT_COUNT:
+        return summary + render_rows(rows)
+
+    recent_rows = rows[-RECENT_COUNT:]
+    recent_section = "### 최근 풀이\n\n" + render_rows(recent_rows)
+    full_section = (
+        "\n\n<details>\n"
+        f"<summary>전체 풀이 기록 보기 ({len(rows)}개)</summary>\n\n"
+        + render_rows(rows)
+        + "\n\n</details>"
+    )
+    return summary + "\n" + recent_section + full_section
 
 
 def update_readme(table: str) -> None:
