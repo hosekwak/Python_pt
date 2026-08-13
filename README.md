@@ -40,9 +40,14 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 14문제 풀이**
+**총 19문제 풀이**
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
+| 181883 | [수열과 구간쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | Lv.0 | [코드](programmers/수열과_구간쿼리_1.py) |
+| 181884 | [n보다커질때까지더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | Lv.0 | [코드](programmers/n보다커질때까지더하기.py) |
+| 181885 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | Lv.0 | [코드](programmers/할밀목록.py) |
+| 181886 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | Lv.0 | [코드](programmers/5명씩.py) |
+| 181887 | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | Lv.0 | [코드](programmers/홀수_짝수.py) |
 | 181888 | [n 개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | Lv.0 | [코드](programmers/n_개_간격의_원소들.py) |
 | 181889 | [n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | Lv.0 | [코드](programmers/n_번째원소까지.py) |
 | 181890 | [왼쪽오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | Lv.0 | [코드](programmers/왼쪽_오른쪽.py) |
