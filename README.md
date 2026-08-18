@@ -40,7 +40,7 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 19문제 풀이**
+**총 21문제 풀이**
 
 ### 최근 풀이
 
@@ -53,10 +53,12 @@ def solution(a, b):
 | 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
 
 <details>
-<summary>전체 풀이 기록 보기 (19개)</summary>
+<summary>전체 풀이 기록 보기 (21개)</summary>
 
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
+| 181881 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | Lv.0 | [코드](programmers/조건에_맞게_수열_변환하기_2.py) |
+| 181882 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | Lv.0 | [코드](programmers/조건에_맞게_수열_변환하기_1.py) |
 | 181883 | [수열과 구간쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | Lv.0 | [코드](programmers/수열과_구간쿼리_1.py) |
 | 181884 | [n보다커질때까지더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | Lv.0 | [코드](programmers/n보다커질때까지더하기.py) |
 | 181885 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | Lv.0 | [코드](programmers/할밀목록.py) |
