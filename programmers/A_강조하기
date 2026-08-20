@@ -1,0 +1,19 @@
+# 번호: 181874
+# 문제: A강조하기
+# 난이도: Lv.0
+# 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181874
+
+def solution(myString):
+    answer = ''
+    for i in myString:
+        if i == 'a':
+            answer += 'A'
+        elif i.isupper() and i != 'A':
+            answer += i.lower()
+        else:
+            answer += i
+    return answer
+
+
+def solution(myString):
+    return ''.join('A' if c == 'a' else c if c == 'A' else c.lower() for c in myString)
