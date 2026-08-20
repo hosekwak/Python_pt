@@ -40,7 +40,7 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 24문제 풀이**
+**총 26문제 풀이**
 
 ### 최근 풀이
 
@@ -53,13 +53,15 @@ def solution(a, b):
 | 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
 
 <details>
-<summary>전체 풀이 기록 보기 (24개)</summary>
+<summary>전체 풀이 기록 보기 (26개)</summary>
 
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
-|  | 1로_만들기 |  | [코드](programmers/1로_만들기.py) |
+| 181876 | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | Lv.0 | [코드](programmers/소문자로바꾸기.py) |
+| 181877 | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | Lv.0 | [코드](programmers/대문자로바꾸기.py) |
 | 181878 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | Lv.0 | [코드](programmers/원하는_문자열_찾기.py) |
 | 181879 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | Lv.0 | [코드](programmers/길이에_따른_연산.py) |
+| 181880 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | Lv.0 | [코드](programmers/1로_만들기.py) |
 | 181881 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | Lv.0 | [코드](programmers/조건에_맞게_수열_변환하기_2.py) |
 | 181882 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | Lv.0 | [코드](programmers/조건에_맞게_수열_변환하기_1.py) |
 | 181883 | [수열과 구간쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | Lv.0 | [코드](programmers/수열과_구간쿼리_1.py) |
