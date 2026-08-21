@@ -40,7 +40,7 @@ def solution(a, b):
 ## 풀이 기록
 
 <!-- SOLUTIONS_TABLE_START -->
-**총 28문제 풀이**
+**총 32문제 풀이**
 
 ### 최근 풀이
 
@@ -53,10 +53,14 @@ def solution(a, b):
 | 181901 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | Lv.0 | [코드](programmers/배열_만들기_1.py) |
 
 <details>
-<summary>전체 풀이 기록 보기 (28개)</summary>
+<summary>전체 풀이 기록 보기 (32개)</summary>
 
 | 번호 | 문제 | 난이도 | 풀이 |
 |:---:|---|:---:|:---:|
+| 181869 | [공백으로 구분하기1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | Lv.0 | [코드](programmers/공백으로구분하기1.py) |
+| 181870 | [ad제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | Lv.0 | [코드](programmers/ad제거하기.py) |
+| 181871 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | Lv.0 | [코드](programmers/문자열이_몇번등장하는지세기.py) |
+| 181872 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | Lv.0 | [코드](programmers/특정문자열로.py) |
 | 181873 | [특정한 문자를 대문자로 바꾸기](http://school.programmers.co.kr/learn/courses/30/lessons/181873) | Lv.0 | [코드](programmers/특정한_문자를_대문자로_바꾸기.py) |
 | 181875 | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | Lv.0 | [코드](programmers/배열에서문자열대소문자변환하기.py) |
 | 181876 | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | Lv.0 | [코드](programmers/소문자로바꾸기.py) |
